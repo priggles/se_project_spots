@@ -9,7 +9,7 @@
 
 **Intro**
 
-Spots is an interactive social media web application where users can share and manage their favorite photos, interact with others by liking their posts, and personalize their user profiles. The website features a modern and responsive profile section, a grid layout for displaying your favorite images, and an easy-to-navigate layout suitable for desktop, tablet, and mobile views.
+'Spots' is an interactive social media web application where users can share and manage their favorite photos, interact with others by liking their posts, and personalize their user profiles. The website features a modern and responsive profile section, a grid layout for displaying your favorite images, and an easy-to-navigate layout suitable for desktop, tablet, and mobile views.
 
 **Tech Stack**
 
