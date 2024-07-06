@@ -6,6 +6,7 @@
 - Tech Stack
 - Images
 - Deployment
+- Video
 
 **Intro**
 
@@ -29,6 +30,12 @@
 
 **Deployment**
 
-This webpage is deployed to Github Pages
+This webpage is deployed to Github Pages:
 
 - Deployment link: https://priggles.github.io/se_project_spots/
+
+**Video**
+
+My video for the project (captions available):
+
+https://drive.google.com/file/d/1of28IhQNLzqRdF-ZWd3Eo0O_YiAITg4D/view?usp=sharing
